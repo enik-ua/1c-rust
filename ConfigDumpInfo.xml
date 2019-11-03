@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="Configuration._1c_rust" id="630e6fc1-f4b5-4f5c-a8a9-f8a9f25fcdb2" configVersion="0155c3a936c78048b142dc7a5cf70c1600000000"/>
+		<Metadata name="Configuration._1c_rust.ManagedApplicationModule" id="66ec2af2-edfa-4c12-9172-73db33dd2f65.6" configVersion="bcfdc2cabecbed448e5a23861587b01800000000"/>
+		<Metadata name="Language.Українська" id="ca5d97f3-6075-4b81-9024-6d066b53206a" configVersion="ae283c8d2b24d84f89812da888b92d5700000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
