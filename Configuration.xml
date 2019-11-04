@@ -175,8 +175,10 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Українська</Language>
+			<CommonTemplate>MainМакет</CommonTemplate>
 			<CommonModule>Трансляция</CommonModule>
 			<CommonModule>Синтаксис</CommonModule>
+			<CommonModule>Совместимость</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
